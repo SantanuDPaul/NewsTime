@@ -1,4 +1,5 @@
-NEWSTIME - Its a News Aggregator website 
+NEWSTIME - Its a News Aggregator website.
+
 Here is the live Demo
 - [Click Here](https://news-time-wheat.vercel.app/)
 
